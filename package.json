@@ -1,0 +1,22 @@
+{
+  "name": "day-14",
+  "version": "1.0.0",
+  "description": "14th day of our lord the squier of THE PILLAAAAAAAAAARS... OF THE INTERNEEEEEET",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-Of-Duty-The-Ironvengers/day-14.git"
+  },
+  "author": "André de Albuquerque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Code-Of-Duty-The-Ironvengers/day-14/issues"
+  },
+  "homepage": "https://github.com/Code-Of-Duty-The-Ironvengers/day-14#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}

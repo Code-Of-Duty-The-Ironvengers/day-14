@@ -19,10 +19,18 @@ const server = http.createServer((request, response) => {
 
   response.end();
 });
+// const server2 = http.createServer((request, response) => {
+//   response.write("Funny question");
+//   response.end();
+// });
 
 server.listen(3000, () => {
   console.log(`Done, we're up and running`);
   console.log(chalk.bgBlue.redBright("YUUHUUU"));
 });
+
+// server2.listen(3001, () => {
+//   console.log("SERVER 2 IS RUNNING");
+// });
 
 // NPM Node Package Manager
